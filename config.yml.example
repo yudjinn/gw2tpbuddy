@@ -1,0 +1,9 @@
+cache:
+  filename: shelve
+  load: merge
+
+accounts:
+  - name: main
+    key: Account-api-key
+
+##Remove .example from file name
